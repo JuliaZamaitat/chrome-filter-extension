@@ -1,1 +1,3 @@
-alert("This is my first Chrome extension");
+//var firstLink = document.getElementsByTagName('a')[0].href;
+
+//console.log(firstLink);
